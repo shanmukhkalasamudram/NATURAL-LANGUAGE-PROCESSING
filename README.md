@@ -11,3 +11,5 @@
 6. Matplot
 7. TextBlob
 8. Spacy 
+9. FSA
+10. Cosine similarity 
